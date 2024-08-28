@@ -1,6 +1,6 @@
 import React from 'react'
 import ChatWidget from './components/ChatWidget';
-import image from './assets/img/bg_image1.jpg';
+import image from './assets/img/bg_image.jpg';
 
 function App() {
   return (
